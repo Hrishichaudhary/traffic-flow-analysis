@@ -1,0 +1,8 @@
+fresh_env/
+ByteTrack/
+*.mp4
+*.dll
+*.lib
+__pycache__/
+*.pyc
+.env

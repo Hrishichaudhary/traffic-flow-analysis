@@ -11,6 +11,10 @@ This project performs traffic flow analysis using Python scripts. It includes de
 
 ## Setup Instructions
 
+### Requirements 
+* Video Dataset - - Input: Use the traffic video at https://www.youtube.com/watch?v=MNn9qKG2UFI 
+* Processing: Download and process the video within the script (eg.- 1. Download the latest standalone yt-dlp.exe from **https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe** to download the video.)
+
 ### Prerequisites
 - Python 3.x installed on your system.
 - Git for cloning the repository.
@@ -66,5 +70,6 @@ The included `Demo.mp4` file visually demonstrates the project setup and basic e
 ## Contributing
 
 Feel free to open issues or pull requests for improvements.
+
 
 
